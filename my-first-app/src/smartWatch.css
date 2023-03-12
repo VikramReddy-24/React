@@ -1,0 +1,107 @@
+.header{
+    height:65px;
+    width: 100%;
+    background-color: #265b64;
+}
+
+.itemContainer{
+    margin-top: 56px;
+    /* background-color: aqua; */
+}
+
+.image{
+    
+    height:100%;
+    width:330px
+    
+}
+
+.time{
+    color:white;
+    position:absolute;
+    top:130px;
+    left:115px
+}
+
+.heartBeat{
+    width:60px;
+    height:50px;
+    color:white;
+    position:absolute;
+    top:115px;
+    left:135px
+}
+
+.heartBeatNumber{
+    width:60px;
+    height:50px;
+    color:white;
+    position:absolute;
+    top:155px;
+    left:135px
+}
+
+.imageblock{
+
+    margin-top: 20px;
+
+    display: inline-block;
+    width:auto;
+
+    position: relative;
+  
+}
+
+.infoblock{
+   
+    display: inline-block;
+    width:39%;
+    margin-left: 4px;
+    text-align:left;
+
+}
+
+.blackButton{
+    height:30px;
+    width:40px;
+    background-color: black;
+
+}
+
+.redButton{
+    height:30px;
+    width:40px;
+    background-color:#ca3d22;
+}
+
+.blueButton{
+    height:30px;
+    width:40px;
+    background-color:   #565681;
+
+}
+
+.pinkButton{
+    height:30px;
+    width:40px;
+    background-color:#e9c7be ;
+
+}
+
+
+button{
+    margin-right: 6px;
+    border-radius: 4px;
+    border: none;
+}
+
+.features{
+    height:30px;
+    padding: 0px 14px;
+}
+
+.buyButton{
+    margin-top: 16px;
+    padding:6px 14px;
+    background-color: rgb(226, 226, 68);
+}
